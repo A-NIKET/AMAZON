@@ -25,3 +25,6 @@ Amazon 2.0 is one which fetches products data from FakeStore Api and has Slick A
 Next.js is a React Production Framework which gives the best developer experience with all the features for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed.
 
 
+#Hosted Link:(https://amazon-clone-2-0-five.vercel.app/)
+
+
