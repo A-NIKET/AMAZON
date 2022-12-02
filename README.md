@@ -10,7 +10,7 @@
 </p>
 Live Demo : [MY DEMO](https://drive.google.com/file/d/1Hyr1ht6QMSpwOOeuZ-qiPVN3ZD73gla0/view?usp=sharing)
 
-### About The Build
+### About The build
 
 Amazon 2.0 is one which fetches products data from FakeStore Api and has Slick Animations, Eye-Catching UI, Toast notifications, Stripe Payment Integration and many more. However, the Stripe webhook passes 500 Err code(Internal Server Error) which prevented the implementation of the Order Page Logic and integration of Firebase Database.
 
