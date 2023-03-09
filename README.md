@@ -28,5 +28,5 @@ Next.js is a React Production Framework which gives the best developer experienc
 #Hosted Link:(https://amazon-clone-2-0-five.vercel.app/)
 
 
-
+commit
 
